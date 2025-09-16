@@ -47,7 +47,6 @@ Predicted survival for unseen test dataset (from Kaggle competition).
 ## 📂 Repository Structure  
 - `titanic_model.ipynb` → Complete Colab notebook  
 - `train.csv`, `test.csv` → Dataset files  
-- `submission.csv` → Predicted results  
 
 ---
 
